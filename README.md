@@ -1,5 +1,10 @@
 # AWS-Project
 AWS Codecommit and Codebuild
 
+🔗 CodeCommit: All the source code for my blog is securely hosted on AWS CodeCommit, ensuring version control and collaboration are a breeze.
 
-AWS CodeCommit and CodeBuild – two powerful tools for seamless code management and automated builds. 💻🛠️ If you're as passionate about #DevOps and cloud development as I am, this read is tailored just for you. 💡 Let's explore how to elevate your development process with AWS. ⚙️🌐
+🛠️ CodeBuild: With AWS CodeBuild, every code change is automatically built and tested, ensuring high-quality content is delivered to my readers.
+
+🚀 CodePipeline: AWS CodePipeline orchestrates the deployment process, ensuring that updates to my blog are deployed swiftly and efficiently.
+
+🚀 CodeDeploy: AWS CodeDeploy handles the deployment of my blog to AWS resources, ensuring a smooth experience for my readers.
