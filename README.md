@@ -1,5 +1,5 @@
 # AWS-Project
-AWS Codecommit and Codebuild
+AWS Codecommit, Codebuild, Codedeploy and Codepipeline
 
 Showcasing the power of seamless DevOps automation! 🌐💻
 
